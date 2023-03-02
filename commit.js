@@ -31,6 +31,16 @@ o manuel e o automatico
 
 era kkkkk, é q é a 1 vez usando git no teu vscode
 
+ta tudo ai, ai agora quando tu mudar algo, tu envia e da git push,
+e se tu for usar ele na tua casa, 1ª coisa da um git pull, pra ele pegar as alteração q tu fez 
+blz, parece de boa, vou fazer uns testes aq
+qualquer coisa eu grito
+vlw
+obrigada, amigo, vc é um amigo
+ kasdksakdsakk, nd,m as é isso ae, é bem facil,   editou algo? git push,   vai trabalhar em outro pc? git pull altera e da push
+
+ vo fecha oa cesso aq, vlws ae,:)
+ dflw
 
 echo "# MeuCod" >> README.md
 git init
