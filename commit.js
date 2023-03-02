@@ -39,8 +39,6 @@ vlw
 obrigada, amigo, vc é um amigo
  kasdksakdsakk, nd,m as é isso ae, é bem facil,   editou algo? git push,   vai trabalhar em outro pc? git pull altera e da push
 
- vo fecha oa cesso aq, vlws ae,:)
- dflw
 
 echo "# MeuCod" >> README.md
 git init
