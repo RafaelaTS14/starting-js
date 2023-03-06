@@ -6,5 +6,6 @@ ou até uma determinada condição:
 "repetir até..."
 Também é possível tomar uma decisão.
 Um passo dependendo de outro ou ignorando um passo.
-
+Algoritmos podem se utilizar de condições.
+Agilidade e sequência importam: a sequência precisa fazer sentido
 */
